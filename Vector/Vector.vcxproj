@@ -140,6 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Vector.h" />
+    <ClInclude Include="VectorExpand.h" />
+    <ClInclude Include="VectorImpl.h" />
+    <ClInclude Include="VectorShrink.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

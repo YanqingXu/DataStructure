@@ -18,5 +18,14 @@
     <ClInclude Include="Vector.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="VectorExpand.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorImpl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorShrink.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
