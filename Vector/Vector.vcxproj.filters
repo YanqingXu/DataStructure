@@ -27,5 +27,29 @@
     <ClInclude Include="VectorShrink.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="VectorBracket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorAssignment.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorCopyFrom.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorBubbleSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorSelectionSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorMax.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorMerge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorMergeSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

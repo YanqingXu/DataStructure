@@ -140,8 +140,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Vector.h" />
+    <ClInclude Include="VectorAssignment.h" />
+    <ClInclude Include="VectorBracket.h" />
+    <ClInclude Include="VectorBubbleSort.h" />
+    <ClInclude Include="VectorCopyFrom.h" />
     <ClInclude Include="VectorExpand.h" />
     <ClInclude Include="VectorImpl.h" />
+    <ClInclude Include="VectorMax.h" />
+    <ClInclude Include="VectorMerge.h" />
+    <ClInclude Include="VectorMergeSort.h" />
+    <ClInclude Include="VectorSelectionSort.h" />
     <ClInclude Include="VectorShrink.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
