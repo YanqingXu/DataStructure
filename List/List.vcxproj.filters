@@ -18,5 +18,50 @@
     <ClInclude Include="Node.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListImpl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListInit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListClear.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListRemove.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListCopyNodes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListInsert.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListConstructor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListMerge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListMergeSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListSelectionSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListSelectMax.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListDestructor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListInsertionSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListRadixSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

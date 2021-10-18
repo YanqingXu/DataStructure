@@ -139,6 +139,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="List.h" />
+    <ClInclude Include="ListClear.h" />
+    <ClInclude Include="ListConstructor.h" />
+    <ClInclude Include="ListCopyNodes.h" />
+    <ClInclude Include="ListDestructor.h" />
+    <ClInclude Include="ListImpl.h" />
+    <ClInclude Include="ListInit.h" />
+    <ClInclude Include="ListInsert.h" />
+    <ClInclude Include="ListInsertionSort.h" />
+    <ClInclude Include="ListMerge.h" />
+    <ClInclude Include="ListMergeSort.h" />
+    <ClInclude Include="ListRadixSort.h" />
+    <ClInclude Include="ListRemove.h" />
+    <ClInclude Include="ListSelectionSort.h" />
+    <ClInclude Include="ListSelectMax.h" />
     <ClInclude Include="Node.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
